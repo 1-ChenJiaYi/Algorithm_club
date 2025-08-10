@@ -1,6 +1,6 @@
 /**
  题目链接：https://leetcode.cn/problems/minimum-stability-factor-of-array/description/
- typescript 
+ typescript 版本
  */
 
  function minStable(nums: number[], maxC: number): number {
